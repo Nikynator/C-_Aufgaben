@@ -12,3 +12,4 @@ C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Aufgabe_1\obj\Debug\net9.0\refint\Aufgabe_
 C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Aufgabe_1\obj\Debug\net9.0\Aufgabe_1.pdb
 C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Aufgabe_1\obj\Debug\net9.0\Aufgabe_1.genruntimeconfig.cache
 C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Aufgabe_1\obj\Debug\net9.0\ref\Aufgabe_1.dll
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Aufgabe_1\obj\Debug\net9.0\Aufgabe_1.sourcelink.json

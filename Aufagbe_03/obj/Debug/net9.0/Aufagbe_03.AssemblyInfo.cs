@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aufagbe_03")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7f3cc1393417ec7d09851fb2ad9f66713153a5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca8cda58ca16ee828a36f99d8a756bb74887e53c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aufagbe_03")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aufagbe_03")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
