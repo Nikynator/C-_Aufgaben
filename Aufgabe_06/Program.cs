@@ -4,16 +4,19 @@ class Program
 {
     static void Main(string[] args)
     {
-        int i = 1;
-        int n = 1;
-        int Number = 0;
-        while (Number <= 99)
+        int ZeilenAbbruch = 10;
+        for (int i = 1; i < 11; i++)
         {
-            Number = i * n;
-            i++;
-            Console.Write($"{Number}");
-            Console.Write('\t');
+            for (int n = 1; n < 11; n++)
+            {
+                int result = i * n;
+                Console.Write(result + "\t");
+                if (ZeilenAbbruch == result)
+                {
+                    Console.WriteLine(" ");
+                    ZeilenAbbruch = ZeilenAbbruch + 10;
+                }
+            }
         }
-        
     }
 }
