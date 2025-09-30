@@ -28,7 +28,10 @@ class Program
         anzahlAbständeKrone = (intHöheKrone - 1);
 
         int anzahlSterneKrone = 1;
-
+        
+    }
+    static int methodWeinachtsbaum(int anzahlAbständeKrone, int anzahlAbstände,int anzahlSterneKrone,int intHöheKrone,int intHöheStammes,int intBreiteStammes)
+    {
         for (int a = 0; a < intHöheKrone; a++)
         {
             int zeileKrone = 1;
