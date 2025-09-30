@@ -4,32 +4,49 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.Write("Number:");
-        int n = Convert.ToInt32(Console.ReadLine());
-        string bin = ("");
-        int rest;
-        int werte;
-        while (n != 0)
+        
+        bool keypressed = false;
+
+        while (keypressed == false)
         {
-            rest = n % 2;
-            bin = rest + bin;
-            werte = n / 2;
-            n = werte;
-            if (n==0)
+            string bin = (" ");
+            string input;
+            int userNumber;
+            int rest;
+            int value;
+
+            Console.WriteLine("integer number (q + enter to Quit)");
+            input = Console.ReadLine();
+            
+            
+            
+            if (input == "q")
             {
-                Console.WriteLine(bin);
+                keypressed = true; 
+                Console.WriteLine("You pressed q which stopped the programm");
+            }
+            else
+            {
+                userNumber = Convert.ToInt32(input);
+                keypressed = false;
+                while (userNumber != 0)
+                {
+                    rest = userNumber % 2;
+                    bin = rest + bin;
+                    value = userNumber / 2;
+                    userNumber = value;
+                }
+
+                if (userNumber == 0) ;
+                {
+                    Console.WriteLine(bin);
+                }
             }
         }
-        bool kaypressed = false;
-        ConsoleKeyInfo keyInfo = Console.ReadKey();
-        if (keyInfo.KeyChar == 'q')
-        {
-            kaypressed = true;
-            Console.WriteLine("Your done buddy boy");
-        }
-        else
-        {
-            kaypressed = false;
-        }
+
+        
+
+
+
     }
 }
