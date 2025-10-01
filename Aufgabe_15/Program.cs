@@ -9,6 +9,7 @@ class Program
         Console.WriteLine(" ");
         string breiteStammes = Console.ReadLine();
         int intBreiteStammes = Convert.ToInt32(breiteStammes);
+        
 
         //Höhe Stammes
         Console.WriteLine("Höhe des Stammes: ");
@@ -28,6 +29,8 @@ class Program
         anzahlAbständeKrone = (intHöheKrone - 1);
 
         int anzahlSterneKrone = 1;
+        
+        int ZeileStammes = methodWeinachtsbaum(anzahlAbständeKrone, anzahlAbstände,anzahlSterneKrone,intHöheKrone,intHöheStammes,intBreiteStammes);
         
     }
     static int methodWeinachtsbaum(int anzahlAbständeKrone, int anzahlAbstände,int anzahlSterneKrone,int intHöheKrone,int intHöheStammes,int intBreiteStammes)
@@ -67,6 +70,7 @@ class Program
 
             Console.WriteLine();
         }
+        return anzahlSterneKrone;
     }
 }
    
