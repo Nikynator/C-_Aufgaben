@@ -11,7 +11,8 @@ class Program
             {
                 Console.WriteLine("------------------------------------------------------------------");
                 Console.WriteLine("Make your calculation (or press Q to quit)");
-                Console.WriteLine("------------------------------------------------------------------");
+                Console.WriteLine("-----------Positive Vibes only------------");
+                Console.WriteLine("__________________________________________________________________\n");
                 string input = Console.ReadLine();
                 if (input == "q")
                 {

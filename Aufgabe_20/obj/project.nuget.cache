@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "J/7GHoQUVgM=",
+  "dgSpecHash": "cnZiHGnkPcY=",
   "success": true,
   "projectFilePath": "C:\\BLJ_25\\C#\\Start_Projects\\Aufgabe_1\\Aufgabe_20\\Aufgabe_20.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nikfuchs\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
