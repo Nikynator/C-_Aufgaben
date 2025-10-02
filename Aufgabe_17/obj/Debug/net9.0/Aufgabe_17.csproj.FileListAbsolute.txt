@@ -1,0 +1,15 @@
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Aufgabe_17\bin\Debug\net9.0\Aufgabe_17.exe
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Aufgabe_17\bin\Debug\net9.0\Aufgabe_17.deps.json
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Aufgabe_17\bin\Debug\net9.0\Aufgabe_17.runtimeconfig.json
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Aufgabe_17\bin\Debug\net9.0\Aufgabe_17.dll
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Aufgabe_17\bin\Debug\net9.0\Aufgabe_17.pdb
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Aufgabe_17\obj\Debug\net9.0\Aufgabe_17.GeneratedMSBuildEditorConfig.editorconfig
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Aufgabe_17\obj\Debug\net9.0\Aufgabe_17.AssemblyInfoInputs.cache
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Aufgabe_17\obj\Debug\net9.0\Aufgabe_17.AssemblyInfo.cs
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Aufgabe_17\obj\Debug\net9.0\Aufgabe_17.csproj.CoreCompileInputs.cache
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Aufgabe_17\obj\Debug\net9.0\Aufgabe_17.sourcelink.json
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Aufgabe_17\obj\Debug\net9.0\Aufgabe_17.dll
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Aufgabe_17\obj\Debug\net9.0\refint\Aufgabe_17.dll
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Aufgabe_17\obj\Debug\net9.0\Aufgabe_17.pdb
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Aufgabe_17\obj\Debug\net9.0\Aufgabe_17.genruntimeconfig.cache
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Aufgabe_17\obj\Debug\net9.0\ref\Aufgabe_17.dll
