@@ -1,0 +1,15 @@
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Z_Memory_Lösungen\bin\Debug\net9.0\Z_Memory_Lösungen.exe
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Z_Memory_Lösungen\bin\Debug\net9.0\Z_Memory_Lösungen.deps.json
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Z_Memory_Lösungen\bin\Debug\net9.0\Z_Memory_Lösungen.runtimeconfig.json
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Z_Memory_Lösungen\bin\Debug\net9.0\Z_Memory_Lösungen.dll
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Z_Memory_Lösungen\bin\Debug\net9.0\Z_Memory_Lösungen.pdb
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Z_Memory_Lösungen\obj\Debug\net9.0\Z_Memory_Lösungen.GeneratedMSBuildEditorConfig.editorconfig
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Z_Memory_Lösungen\obj\Debug\net9.0\Z_Memory_Lösungen.AssemblyInfoInputs.cache
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Z_Memory_Lösungen\obj\Debug\net9.0\Z_Memory_Lösungen.AssemblyInfo.cs
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Z_Memory_Lösungen\obj\Debug\net9.0\Z_Memory_Lösungen.csproj.CoreCompileInputs.cache
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Z_Memory_Lösungen\obj\Debug\net9.0\Z_Memory_Lösungen.sourcelink.json
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Z_Memory_Lösungen\obj\Debug\net9.0\Z_Memory_Lösungen.dll
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Z_Memory_Lösungen\obj\Debug\net9.0\refint\Z_Memory_Lösungen.dll
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Z_Memory_Lösungen\obj\Debug\net9.0\Z_Memory_Lösungen.pdb
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Z_Memory_Lösungen\obj\Debug\net9.0\Z_Memory_Lösungen.genruntimeconfig.cache
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Z_Memory_Lösungen\obj\Debug\net9.0\ref\Z_Memory_Lösungen.dll

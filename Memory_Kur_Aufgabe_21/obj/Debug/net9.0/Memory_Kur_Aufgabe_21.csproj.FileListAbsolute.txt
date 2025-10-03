@@ -1,0 +1,15 @@
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Memory_Kur_Aufgabe_21\bin\Debug\net9.0\Memory_Kur_Aufgabe_21.exe
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Memory_Kur_Aufgabe_21\bin\Debug\net9.0\Memory_Kur_Aufgabe_21.deps.json
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Memory_Kur_Aufgabe_21\bin\Debug\net9.0\Memory_Kur_Aufgabe_21.runtimeconfig.json
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Memory_Kur_Aufgabe_21\bin\Debug\net9.0\Memory_Kur_Aufgabe_21.dll
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Memory_Kur_Aufgabe_21\bin\Debug\net9.0\Memory_Kur_Aufgabe_21.pdb
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Memory_Kur_Aufgabe_21\obj\Debug\net9.0\Memory_Kur_Aufgabe_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Memory_Kur_Aufgabe_21\obj\Debug\net9.0\Memory_Kur_Aufgabe_21.AssemblyInfoInputs.cache
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Memory_Kur_Aufgabe_21\obj\Debug\net9.0\Memory_Kur_Aufgabe_21.AssemblyInfo.cs
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Memory_Kur_Aufgabe_21\obj\Debug\net9.0\Memory_Kur_Aufgabe_21.csproj.CoreCompileInputs.cache
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Memory_Kur_Aufgabe_21\obj\Debug\net9.0\Memory_Kur_Aufgabe_21.sourcelink.json
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Memory_Kur_Aufgabe_21\obj\Debug\net9.0\Memory_Kur_Aufgabe_21.dll
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Memory_Kur_Aufgabe_21\obj\Debug\net9.0\refint\Memory_Kur_Aufgabe_21.dll
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Memory_Kur_Aufgabe_21\obj\Debug\net9.0\Memory_Kur_Aufgabe_21.pdb
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Memory_Kur_Aufgabe_21\obj\Debug\net9.0\Memory_Kur_Aufgabe_21.genruntimeconfig.cache
+C:\BLJ_25\C#\Start_Projects\Aufgabe_1\Memory_Kur_Aufgabe_21\obj\Debug\net9.0\ref\Memory_Kur_Aufgabe_21.dll
