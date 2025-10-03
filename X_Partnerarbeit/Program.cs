@@ -25,7 +25,7 @@ class Program
                 string vorname = Console.ReadLine();
                 Console.Write("Nachname: ");
                 string nachname = Console.ReadLine();
-                Console.Write("E-Mail: ");
+                Console.Write("E-Mail: ");l
                 string email = Console.ReadLine();
                 Console.Write("Eingabe beenden? (j/n)");
                 string beenden = Console.ReadLine();
@@ -56,7 +56,7 @@ class Program
                         while (y != i)
                         {
                             y++;
-                            Console.WriteLine($"{vornameArr[y]} {nachnameArr[y]} ({emailArr[y]})");
+                            Console.WriteLine($"{nachnameArr[y]} {vornameArr[y]} ({emailArr[y]})");
                             if (y == i)
                             {
                                 Console.Write($"The Programm has ended.");
